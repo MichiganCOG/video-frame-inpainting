@@ -1,0 +1,2 @@
+--name=kth_SuperSloMo
+--model_key=SloMoFillInModel_gray

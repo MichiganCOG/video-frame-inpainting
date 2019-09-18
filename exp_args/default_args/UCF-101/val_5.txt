@@ -1,0 +1,7 @@
+--K=4
+--T=5
+--F=4
+--test_video_list_path=videolist/UCF-101/val_data_list_T=5.txt
+--c_dim=3
+--image_size 240 320
+--batch_size=16

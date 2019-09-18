@@ -1,0 +1,7 @@
+--K=4
+--T=3
+--F=4
+--test_video_list_path=videolist/Imagenet-VID/test_data_list_T=3.txt
+--c_dim=3
+--image_size 240 320
+--batch_size=16

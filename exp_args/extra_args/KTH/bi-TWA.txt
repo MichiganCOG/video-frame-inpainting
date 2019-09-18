@@ -1,0 +1,2 @@
+--name=kth_bi-TWA
+--model_key=BidirectionalTimeWeightedAverageFillInModel_gray

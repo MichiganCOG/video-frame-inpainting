@@ -1,0 +1,3 @@
+--name=ucf-101_SuperSloMo
+--model_key=SloMoFillInModel_color
+--padding_size 16 0

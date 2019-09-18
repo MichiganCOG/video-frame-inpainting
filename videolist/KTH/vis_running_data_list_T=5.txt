@@ -1,0 +1,8 @@
+datasets/KTH/person15_running_d1_uncomp.avi 9-23
+datasets/KTH/person15_running_d2_uncomp.avi 10-24
+datasets/KTH/person15_running_d3_uncomp.avi 9-23
+datasets/KTH/person15_running_d4_uncomp.avi 15-29
+datasets/KTH/person16_running_d1_uncomp.avi 13-27
+datasets/KTH/person16_running_d2_uncomp.avi 22-36
+datasets/KTH/person16_running_d3_uncomp.avi 15-29
+datasets/KTH/person16_running_d4_uncomp.avi 14-28

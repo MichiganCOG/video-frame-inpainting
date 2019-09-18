@@ -1,0 +1,5 @@
+{
+  "class": "SCTSkipConScaledTRandomFillInModel",
+  "args": [1, 2, 3, 256, 2048],
+  "kwargs": {}
+}

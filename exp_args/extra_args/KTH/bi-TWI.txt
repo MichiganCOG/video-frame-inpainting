@@ -1,0 +1,2 @@
+--name=kth_bi-TWI
+--model_key=TimeWeightedInterpolationFillInModel_gray

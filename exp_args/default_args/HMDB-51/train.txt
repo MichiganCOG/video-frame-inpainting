@@ -1,0 +1,17 @@
+--K=4
+--F=4
+--T=3
+--alt_T=5
+--alt_K=6
+--alt_F=6
+--max_iter=200000
+--train_video_list_path=videolist/HMDB-51/train_data_list.txt
+--val_video_list_path=videolist/HMDB-51/val_data_list_T=3.txt
+--val_video_list_alt_T_path=videolist/HMDB-51/val_data_list_T=5.txt
+--val_video_list_alt_K_F_path=videolist/HMDB-51/val_data_list_K=F=6.txt
+--vis_video_list_path=videolist/HMDB-51/vis_data_list_T=3.txt
+--vis_video_list_alt_T_path=videolist/HMDB-51/vis_data_list_T=5.txt
+--vis_video_list_alt_K_F_path=videolist/HMDB-51/vis_data_list_K=F=6.txt
+--c_dim=3
+--image_size 160 208
+--sample_KTF

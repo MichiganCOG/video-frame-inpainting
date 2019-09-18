@@ -1,0 +1,8 @@
+datasets/HMDB-51/catch/torwart_de_-_Torwarttraining_Werder_Bremen_catch_f_cm_np1_ba_bad_0.avi 1-11
+datasets/HMDB-51/drink/Veoh_Alpha_Dog_2_drink_u_nm_np1_fr_goo_5.avi 1-11
+datasets/HMDB-51/golf/golf_golf_f_nm_np1_ri_goo_0.avi 1-11
+datasets/HMDB-51/jump/prelinger_ControlY1950_jump_f_nm_np1_fr_bad_6.avi 1-11
+datasets/HMDB-51/pullup/pull_ups_pullup_u_nm_np1_ba_med_2.avi 1-11
+datasets/HMDB-51/push/pushing_cart_push_f_cm_np1_ba_bad_3.avi 1-11
+datasets/HMDB-51/ride_bike/Tour_de_France_2003_-_Armstrong_attacks_Ullrich_after_Fall_ride_bike_f_cm_np2_fr_med_0.avi 1-11
+datasets/HMDB-51/shoot_ball/WeTheKingsplaying_shoot_ball_f_cm_np1_ri_med_0.avi 1-11

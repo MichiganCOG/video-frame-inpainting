@@ -1,0 +1,12 @@
+datasets/KTH/person15_boxing_d1_uncomp.avi 1-15
+datasets/KTH/person15_handclapping_d1_uncomp.avi 66-80
+datasets/KTH/person15_handwaving_d4_uncomp.avi 151-165
+datasets/KTH/person15_jogging_d1_uncomp.avi 260-274
+datasets/KTH/person15_running_d2_uncomp.avi 150-164
+datasets/KTH/person15_walking_d2_uncomp.avi 480-494
+datasets/KTH/person16_boxing_d3_uncomp.avi 371-385
+datasets/KTH/person16_handclapping_d3_uncomp.avi 211-225
+datasets/KTH/person16_handwaving_d1_uncomp.avi 106-120
+datasets/KTH/person16_jogging_d2_uncomp.avi 305-319
+datasets/KTH/person16_running_d2_uncomp.avi 270-284
+datasets/KTH/person16_walking_d4_uncomp.avi 350-364

@@ -1,0 +1,3 @@
+--name=ucf-101_SuperSloMo
+--model_key=SloMoFillInModel_color
+--image_size 160 192
