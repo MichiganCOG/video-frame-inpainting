@@ -3,6 +3,20 @@ Ximeng Sun, Ryan Szeto and Jason J. Corso, University of Michigan
 
 **Note:** This is a fork of [this code base](https://github.com/sunxm2357/TAI_video_frame_inpainting). The original code implemented the experiments in the ACCV 2018 paper "A Temporally-Aware Interpolation Network for Video Frame Inpainting".
 
+## Citation
+
+If you find this project useful, please cite our ACCV 2018 paper:
+
+```
+@inproceedings{sun2018temporally,
+    author = "Sun, Ximeng and Szeto, Ryan and Corso, Jason J.",
+    title = "A Temporally-Aware Interpolation Network for Video Frame Inpainting",
+    booktitle = "Asian Conference on Computer Vision",
+    month = "Dec",
+    year = "2018"
+}
+```
+
 
 ## Setup the environment
 In this section, we provide an instruction to help you set up the experiment environment. This code was tested for Python 2.7 on Ubuntu 16.04, and is based on PyTorch 0.3.1.
