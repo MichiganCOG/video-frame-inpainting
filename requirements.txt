@@ -16,7 +16,7 @@ python-dateutil==2.6.0
 pytz==2017.2
 pywavelets==0.5.2
 pyyaml==3.12
-requests==2.19.1
+requests==2.31.0
 scikit-image==0.13.1
 scipy==0.18.1
 six==1.10.0
