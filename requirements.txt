@@ -18,7 +18,7 @@ pywavelets==0.5.2
 pyyaml==3.12
 requests==2.19.1
 scikit-image==0.13.1
-scipy==0.18.1
+scipy==1.10.0
 six==1.10.0
 subprocess32==3.2.7
 tensorboardX==0.8
